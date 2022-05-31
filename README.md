@@ -1,2 +1,2 @@
 # portfolio-dio
-https://dioneja.github.io/portifolio-dio/
+https://dioneja.github.io/portfolio-dio/
